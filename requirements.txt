@@ -1,0 +1,6 @@
+beautifulsoup4
+nltk
+openpyxl
+pandas
+requests
+syllables
